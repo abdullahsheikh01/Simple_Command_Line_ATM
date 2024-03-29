@@ -1,0 +1,19 @@
+{
+  "name": "simple_command_line_atm",
+  "version": "1.2.1",
+  "description": "This is my first simple command line ATM program use it you will get fun with it.Password:1234 Balance: 200000 Rupees",
+  "main": "index.js",
+  "type": "module",
+  "bin": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Abdullah Sheikh",
+  "license": "MIT",
+  "dependencies": {
+    "inquirer": "^9.2.16"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
